@@ -58,8 +58,8 @@ export default defineValaxyConfig<UserThemeConfig>({
         //背景图,这里为我自己添加的字段
         bg_image: {
             enable: true,  //这里是背景图的设置，你可以设置白日模式和夜间模式的背景图，如果你不需要背景图，可以将上面的enable改为false即可
-            url: "https://1730014557261.jpg",	// 白日模式背景
-            dark: "https://e1a0c1adcbbbe143903ed8e86912a03f256667467.jpg",	// 夜间模式背景
+            url: "/images/1730014557261.jpg",	// 白日模式背景
+            dark: "/images/e1a0c1adcbbbe143903ed8e86912a03f256667467.jpg",	// 夜间模式背景
         },
 
         //鼠标点击烟花特效
