@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "DayDr3am's Blog",
+    "home_page_url": "https://youllour.github.io/",
+    "feed_url": "https://youllour.github.io/feed.json",
+    "description": "欢迎来到我的博客！☆⌒(*＾-゜)v THX!!",
+    "icon": "https://youllour.github.io/images/1.png",
+    "author": {
+        "name": "DayDr3am",
+        "url": "https://valaxy.site"
+    },
+    "items": [
+        {
+            "id": "https://youllour.github.io/posts/hello-valaxy",
+            "content_html": "<h2>Valaxy</h2>\n<p>Next Generation Static Blog Framework.</p>\n<p>Write your first post!</p>\n<h2>Usage</h2>\n<p>Modify `valaxy</p>\n<br/><p>访问 <a href=\"https://youllour.github.io/posts/hello-valaxy\" target=\"_blank\">https://youllour.github.io/posts/hello-valaxy</a> 阅读全文。</p>",
+            "url": "https://youllour.github.io/posts/hello-valaxy",
+            "title": "Hello, Valaxy!",
+            "date_modified": "2022-04-01T00:00:00.000Z",
+            "date_published": "2022-04-01T00:00:00.000Z",
+            "author": {
+                "name": "DayDr3am",
+                "url": "https://valaxy.site"
+            }
+        }
+    ]
+}

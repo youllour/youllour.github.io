@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://youllour.github.io/</id>
+    <title>DayDr3am's Blog</title>
+    <updated>2026-01-09T09:56:05.878Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>DayDr3am</name>
+        <email>i@valaxy.site</email>
+        <uri>https://valaxy.site</uri>
+    </author>
+    <link rel="alternate" href="https://youllour.github.io/"/>
+    <link rel="self" href="https://youllour.github.io/atom.xml"/>
+    <subtitle>欢迎来到我的博客！☆⌒(*＾-゜)v THX!!</subtitle>
+    <logo>https://youllour.github.io/images/1.png</logo>
+    <icon>https://youllour.github.io/favicon.svg</icon>
+    <rights>CC BY-NC-SA 4.0 2026 © DayDr3am</rights>
+    <entry>
+        <title type="html"><![CDATA[Hello, Valaxy!]]></title>
+        <id>https://youllour.github.io/posts/hello-valaxy</id>
+        <link href="https://youllour.github.io/posts/hello-valaxy"/>
+        <updated>2022-04-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>Valaxy</h2>
+<p>Next Generation Static Blog Framework.</p>
+<p>Write your first post!</p>
+<h2>Usage</h2>
+<p>Modify `valaxy</p>
+<br/><p>访问 <a href="https://youllour.github.io/posts/hello-valaxy" target="_blank">https://youllour.github.io/posts/hello-valaxy</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>DayDr3am</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2022-04-01T00:00:00.000Z</published>
+    </entry>
+</feed>
