@@ -2,13 +2,13 @@ import { defineSiteConfig } from 'valaxy'
 
 export default defineSiteConfig({
     url: 'https://youllour.github.io/',  //你网站的URL
-    favicon: "icon.png",	// 网页图标链接
+    favicon: "https://icon.png",	// 网页图标链接
     lang: 'zh-CN',  //默认语言
     title: "DayDr3am's Blog",  //网站标题
     subtitle: '在我们身上造成黑夜的，也可能留下一些星星给我们。',//网站副标题
     author: {
         name: 'DayDr3am',//博主名称
-        avatar: "1.png",	//头像链接
+        avatar: "https://1.png",	//头像链接
         status: {
             emoji: '💛'	// 头像旁边的emoji
         },
