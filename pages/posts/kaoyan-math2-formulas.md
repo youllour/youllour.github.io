@@ -15,7 +15,6 @@ top: 2
 
 本文汇总了**考研数学二**的核心公式与知识点，涵盖高等数学和线性代数两大部分。数学二不考概率论与数理统计，也不考无穷级数（幂级数除外），复习时可据此合理分配精力。
 
-> **使用建议**：本文适合二轮复习和考前冲刺时快速查阅，建议配合真题练习巩固。
 
 ---
 
@@ -63,7 +62,15 @@ $$
 e^x - 1 &\sim x \\
 1 - \cos x &\sim \frac{1}{2}x^2 \\
 (1 + x)^\alpha - 1 &\sim \alpha x \\
-a^x - 1 &\sim x \ln a \quad (a > 0)
+a^x - 1 &\sim x \ln a \quad (a > 0)\\
+e^x - 1 - x &\sim x - \ln(1 + x) \\
+x - \ln(1+x) &\sim 1 - \cos x \\
+x - \sin x &\sim \arcsin x -x \\
+x - \sin x &\sim \frac{1}{6}x^3\\
+x - \tan x &\sim \arctan x -x \\
+x - \tan x &\sim \frac{1}{3}x^3\\
+\tan x - \sin x &\sim \frac{1}{2}x^3\\
+\tan x - \sin x &\sim \arctan x - \arcsin x\\
 \end{aligned}
 $$
 
