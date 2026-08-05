@@ -16,6 +16,9 @@ export default defineValaxyConfig<UserThemeConfig>({
 
     theme: 'yun',
 
+    // KaTeX（默认开启）
+    features: { katex: true },
+
     themeConfig: {
         banner: {
             enable: true,
