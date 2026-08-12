@@ -72,9 +72,9 @@ declare module 'vue-router/auto-routes' {
       Record<never, never>,
       | never
     >,
-    '/links/': RouteRecordInfo<
-      '/links/',
-      '/links',
+    '/categories/links/': RouteRecordInfo<
+      '/categories/links/',
+      '/categories/links',
       Record<never, never>,
       Record<never, never>,
       | never
@@ -93,9 +93,23 @@ declare module 'vue-router/auto-routes' {
       Record<never, never>,
       | never
     >,
-    '/posts/hello-valaxy': RouteRecordInfo<
-      '/posts/hello-valaxy',
-      '/posts/hello-valaxy',
+    '/posts/kaoyan-data-structure': RouteRecordInfo<
+      '/posts/kaoyan-data-structure',
+      '/posts/kaoyan-data-structure',
+      Record<never, never>,
+      Record<never, never>,
+      | never
+    >,
+    '/posts/kaoyan-math2-formulas': RouteRecordInfo<
+      '/posts/kaoyan-math2-formulas',
+      '/posts/kaoyan-math2-formulas',
+      Record<never, never>,
+      Record<never, never>,
+      | never
+    >,
+    '/posts/os': RouteRecordInfo<
+      '/posts/os',
+      '/posts/os',
       Record<never, never>,
       Record<never, never>,
       | never
@@ -162,9 +176,9 @@ declare module 'vue-router/auto-routes' {
       views:
         | never
     }
-    'pages/links/index.md': {
+    'pages/categories/links/index.md': {
       routes:
-        | '/links/'
+        | '/categories/links/'
       views:
         | never
     }
@@ -180,9 +194,21 @@ declare module 'vue-router/auto-routes' {
       views:
         | never
     }
-    'pages/posts/hello-valaxy.md': {
+    'pages/posts/kaoyan-data-structure.md': {
       routes:
-        | '/posts/hello-valaxy'
+        | '/posts/kaoyan-data-structure'
+      views:
+        | never
+    }
+    'pages/posts/kaoyan-math2-formulas.md': {
+      routes:
+        | '/posts/kaoyan-math2-formulas'
+      views:
+        | never
+    }
+    'pages/posts/os.md': {
+      routes:
+        | '/posts/os'
       views:
         | never
     }
