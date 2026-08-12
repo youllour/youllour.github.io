@@ -1,0 +1,50 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "spark_ovo的小站",
+    "home_page_url": "https://youllour.github.io/",
+    "feed_url": "https://youllour.github.io/feed.json",
+    "description": "欢迎来到我的博客！☆⌒(*＾-゜)v THX!!",
+    "icon": "https://youllour.github.io/images/1.png",
+    "author": {
+        "name": "spark_ovo",
+        "url": "https://valaxy.site"
+    },
+    "items": [
+        {
+            "id": "https://youllour.github.io/posts/kaoyan-data-structure",
+            "content_html": "<h2>前言</h2>\n<p>本文面向 <strong>2027 年计算机考研</strong>，按照“基本概念、线性结构、树、图、查找、排序”的顺序整理数据结构核心知识点。复习时不仅要记结论，还要能画出结构变化过程、分析算法复杂度，并独立</p>\n<br/><p>访问 <a href=\"https://youllour.github.io/posts/kaoyan-data-structure\" target=\"_blank\">https://youllour.github.io/posts/kaoyan-data-structure</a> 阅读全文。</p>",
+            "url": "https://youllour.github.io/posts/kaoyan-data-structure",
+            "title": "27考研数据结构核心知识点汇总",
+            "date_modified": "2026-08-12T00:00:00.000Z",
+            "date_published": "2026-08-12T00:00:00.000Z",
+            "author": {
+                "name": "spark_ovo",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "https://youllour.github.io/posts/os",
+            "content_html": "<h2>1、绪论</h2>\n<h3>1.1 数据结构的基本概念</h3>\n<p>数据是信息的载体，数据元素是数据的基本单位，数据对象是具有相同性质的数据元素的集合</p>\n<p>数据类型是一个值得集合以及定义在该集合上的一组操作的总称</p>\n<br/><p>访问 <a href=\"https://youllour.github.io/posts/os\" target=\"_blank\">https://youllour.github.io/posts/os</a> 阅读全文。</p>",
+            "url": "https://youllour.github.io/posts/os",
+            "title": "操作系统知识点",
+            "date_modified": "2025-08-07T00:00:00.000Z",
+            "date_published": "2025-08-07T00:00:00.000Z",
+            "author": {
+                "name": "spark_ovo",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "https://youllour.github.io/posts/kaoyan-math2-formulas",
+            "content_html": "<h2>前言</h2>\n<p>本文汇总了<strong>考研数学二</strong>的核心公式与知识点，涵盖高等数学和线性代数两大部分。数学二不考概率论与数理统计，也不考无穷级数（幂级数除外），复习时可据此合理分配精力。</p>\n<hr>\n<h2></h2>\n<br/><p>访问 <a href=\"https://youllour.github.io/posts/kaoyan-math2-formulas\" target=\"_blank\">https://youllour.github.io/posts/kaoyan-math2-formulas</a> 阅读全文。</p>",
+            "url": "https://youllour.github.io/posts/kaoyan-math2-formulas",
+            "title": "考研数学二公式知识点汇总",
+            "date_modified": "2025-08-05T00:00:00.000Z",
+            "date_published": "2025-08-05T00:00:00.000Z",
+            "author": {
+                "name": "spark_ovo",
+                "url": "https://valaxy.site"
+            }
+        }
+    ]
+}
