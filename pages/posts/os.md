@@ -25,30 +25,25 @@ top: 2
 
 1.数据的逻辑结构
 
-数据元素之间的逻辑关系，下图为其分类
-![alt text](/pages/posts/image.png)
+数据元素之间的逻辑关系，下面为其分类：
+
+
 
 2.数据的存储结构
 
-![alt text](/pages/posts/image-1.png)
 
 3.数据的运算
 
 物理与逻辑的关系
 
-![alt text](/pages/posts/image-2.png)
-
 ### 1.3 算法与算法评价
 
 1.算法的概念以及特点
 
-如下图：
-![alt text](/pages/posts/image-3.png)
 
 2.时间复杂度和空间复杂度的计算
 
 时间复杂度（重点）
-![alt text](/pages/posts/image-4.png)
+
 
 空间复杂度
-![alt text](/pages/posts/image-5.png)
